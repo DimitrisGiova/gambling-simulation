@@ -1,0 +1,4 @@
+# Ignore generated data and graphs
+*.csv
+*.png
+__pycache__/
